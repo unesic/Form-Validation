@@ -1,6 +1,4 @@
-# Form Validation
-
-## Form validation using Vanilla JavaScript
+# Form Validationn using Vanilla JavaScript
 
 **Username**
  - Must be at least 4 characters long
