@@ -1,0 +1,7 @@
+.hide {
+    display: none;
+}
+
+.required {
+    color: #f00;
+}
