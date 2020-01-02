@@ -18,13 +18,6 @@ window.onload = function() {
 		
 			validate(fields[key], warning);
 		});
-
-		// fields[key].addEventListener('focus', () => {
-		// 	var warning = document.createElement('sub');
-		// 	warning.className = 'alert-danger';
-			
-		// 	setInterval(validate(fields[key], warning), 100);
-		// });
 	}
 }
 
