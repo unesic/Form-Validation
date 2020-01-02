@@ -11,10 +11,11 @@
 
 **Password**
  - Must be at least 8 characters long
- - Must contain at least one lowercase letter
- - Must contain at least one uppercase letter
- - Must contain at least one special character
- - Must contain at least one number
+ - Must contain
+   - At least one lowercase letter
+   - At least one uppercase letter
+   - At least one special character
+   - At least one number
 
 **Re-password**
  - Password must satisfy all the criteria first
